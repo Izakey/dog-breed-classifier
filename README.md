@@ -1,6 +1,6 @@
 # Use A Pre-trained Classifier To Identify Dog Breeds
 
-Install Python3
+Install Python3  
 Install PyTorch Using https://medium.com/@debarko/how-to-install-pytorch-on-a-mac-os-x-97a79e28c70
 
 Run ``bash run_models_batch.sh`` to visualize results
